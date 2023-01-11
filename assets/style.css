@@ -1,0 +1,67 @@
+
+
+nav {
+    
+    color: rgb(69, 41, 11);
+    background-color: rgba(255, 166, 0, 0.363);
+
+}
+
+#ape {
+    width: 4em;
+    margin-right: 10px;
+}
+
+#a-flex{
+    display: flex;
+    justify-content: center;
+    
+    width: 40%;
+    margin: 0 auto 10px
+}
+
+a {
+    text-decoration: none;
+    background-color: rgb(202, 137, 40);
+    border: none;
+    border-radius: 18px;
+    padding: 1em;
+    cursor: pointer;
+
+}
+
+#div-nav {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    font-size: 13px;
+    justify-content: space-around;
+}
+
+main h1 {
+    font-weight: 800;
+    color: rgb(69, 41, 11);
+}
+
+
+#card {
+    background-color: rgba(219, 147, 16, 0.295);
+    color: rgb(69, 41, 11);
+    border-radius: 18px;
+}
+
+#card img {
+    border-radius: 18px 18px 0 0 ;
+
+}
+
+
+#add-to-cart{
+    border:none;
+    background-color: rgb(202, 137, 40);
+    border-radius: 18px;
+    cursor: pointer;
+    padding: 1em;
+    margin-left: 9.5em
+
+}
