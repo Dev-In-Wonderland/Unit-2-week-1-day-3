@@ -130,6 +130,7 @@ aside h2{
 nav{
     display: flex;
     height: 100%;
+    align-items: stretch;
 }
 
 nav ul {
@@ -168,6 +169,7 @@ nav li {
     cursor: pointer;
     width: 40%;
     order: 3;
+    padding: 1.5em 0
 }
 
 
@@ -200,16 +202,15 @@ nav li {
     
 
     .honey-li-1{
-        height: 30%;
+        
         order: 1;
-        padding-top: 34px;
+        
     }
 
     .honey-li-2{
-        height: 20%;
+        
         order: 3;
-        padding-top: 25px;
-        padding-bottom: 10px;
+        
     }
 
 
